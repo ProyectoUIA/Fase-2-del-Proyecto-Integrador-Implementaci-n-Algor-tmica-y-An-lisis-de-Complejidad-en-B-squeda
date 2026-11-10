@@ -1,7 +1,5 @@
 # 1. CLASE DEL PROBLEMA 
-import 
-
-# 2. import heapq
+import heapq
 
 # =========================================================
 # IMPLEMENTACIÓN DEL ALGORITMO A* Y LA FUNCIÓN HEURÍSTICA
